@@ -1,1 +1,2 @@
-# rizik-config-server
+# insurance-config-server
+config-server
